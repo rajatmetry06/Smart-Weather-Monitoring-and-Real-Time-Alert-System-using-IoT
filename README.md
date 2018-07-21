@@ -1,3 +1,4 @@
+SMART WEATHER MONITORING AND ALERT SYSTEM USING IoT
 The proposed embedded device is for monitoring Temperature, Humidity, light intensity and in the atmosphere to make the environment intelligent or interactive with the objects through wireless communication. The proposed model is more adaptable and distributive in nature to monitor the environmental parameters.
 The implemented system consists of ESP8266 as a main processing unit for the entire system and all the sensor and devices can be connected with the microcontroller. The sensors can be operated by the microcontroller to retrieve the data from them and it processes the analysis with the sensor data and updates it to the internet through Wi-Fi.
 
